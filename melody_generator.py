@@ -251,7 +251,7 @@ letter_to_note = {
     'q': 'E3', 'r': 'D3',  # E5 and D5
     's': 'F3', 't': 'E3',  # F5 and E5
     'u': 'G3', 'v': 'G5',  # G5
-    'w': 'A5', 'x': 'C4',  # A5 and C4
+    'w': 'A4', 'x': 'C4',  # A5 and C4
     'y': 'C5', 'z': 'F5'   # C5 and F5
 }
 
